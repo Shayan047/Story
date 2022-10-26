@@ -1,1 +1,1 @@
-Chapter 2 in test branch.
+Chapter 2 in test branch but it is complete so we can merge it into master.
